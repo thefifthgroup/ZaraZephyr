@@ -6,17 +6,26 @@ using UnityEngine.UIElements;
 
 public class PlayerMovement : MonoBehaviour
 {
-    void Start()
+    [SerializeField] private float speed;
+    private Rigidbody2D rb;
+
+    private void Start()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    void Update()
-    { 
+    private void Update()
+    {
+        // Input.GetAxisRaw makes the character stop immediately after player Input
+        float aX = Input.GetAxisRaw("Horizontal");
+
+        // Player's horizontal movement
+        rb.velocity = new Vector2(aX * speed, rb.velocity.y);
+
         // Player jump
-        if (Input.GetKeyDown("space"))
+        if (Input.GetButtonDown("Jump"))
         {
-            GetComponent<Rigidbody2D>().velocity = new Vector3 (0, 14, 0);
+            rb.velocity = new Vector2 (rb.velocity.x, 14f);
         }
     }
 }
