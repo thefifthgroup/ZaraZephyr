@@ -6,14 +6,17 @@ using UnityEngine.UIElements;
 
 public class PlayerMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Initial test");
+        
     }
 
-    // Update is called once per frame
     void Update()
     { 
+        // Player jump
+        if (Input.GetKeyDown("space"))
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector3 (0, 14, 0);
+        }
     }
 }
