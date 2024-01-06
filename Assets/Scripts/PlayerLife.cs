@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class PlayerLife: MonoBehaviour
 {
     private Rigidbody2D rb;
-    private Animator anim:
+    private Animator anim;
     
     private void start()
     {
