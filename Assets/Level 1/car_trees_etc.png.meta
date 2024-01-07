@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,7 +134,1729 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: car_trees_etc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f254eb9be12985a49817d6a9b8a94081
+      internalID: 549796379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_1
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437bf27ffca58794ea296571f96e96ff
+      internalID: 1569727058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2262fdb2bc3e1e46b56b4ad76a13a92
+      internalID: 954478025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889d0c3e3bf02745afad5b05d6da2d5
+      internalID: -448762399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616781af64a93247928699823827d48
+      internalID: -1965410179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e81c08247b0a45998f4cf2b6ced02
+      internalID: 1658710782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ec3f4af87573a47a15aa2d9efb221f
+      internalID: -1243745230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_7
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871a58e95c009e4893c1848e6856bea
+      internalID: -812475851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_8
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a231b68d4635354c8ea9835d7ff8f0d
+      internalID: 1552329276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61679e1b376e38d4eb3fbf8a3ada4af1
+      internalID: 53944936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d9ab477cb80d49908fa97bfdbc584
+      internalID: 1314630885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf1922f922e01f43bfe5cc0081325d8
+      internalID: -1687395120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd40ac602420244d9b899c647c67731
+      internalID: -2142367168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37034bacd2ed1994987ab324d5dafb9b
+      internalID: -216409438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc466f474421da45a4771c42a4339dd
+      internalID: 1605909492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e995970c68c64eb1126193dbb1f3b
+      internalID: -1096973565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_16
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44c00f389cfe543b59099f03ced7ca
+      internalID: 766829570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0b3e962e609043a6d3a28f9a91fd0
+      internalID: -1134392817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad904c77efe1347b7bce84922b07de
+      internalID: 398105227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7074165bdd920b2459ce036606e929cc
+      internalID: 368908031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a6e97f2c0488a4687441212caa5a04
+      internalID: -1299279943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2385ce030568833418168e0e40311972
+      internalID: 1578322163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f982832d279ead44af5b107d992652b
+      internalID: 907563359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2bb9ba5ed362c42ba4e5e1601500c5
+      internalID: 797781991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f793ec1a89f3046870e8227d33362c
+      internalID: 33683448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d2fb055d89b84a9f5aab4b9479d9e
+      internalID: 1560466690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_26
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c892003c9f6cc64ca0de762397a0152
+      internalID: 737125267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6869c11b31988740b2adadb994b2df0
+      internalID: -1520120900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d202e62f68f072458e0007925242b44
+      internalID: 1130230660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b440a8de344d9e499c84c48bb290322
+      internalID: 239627298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df259f680d3d74fa5d0abaf05a702a
+      internalID: -553161821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113a660a3b9b14458e5236d41f4d220
+      internalID: -1976646802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482bd3e6efc9a404bbedc160178576e6
+      internalID: 470992340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0ecc0a2326b724c986c2a878c18cce
+      internalID: 1590929766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21dee0db124b948ba191c2b6add1fb
+      internalID: -1537381402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8084bb2bf2fcd9428c127d5994036b9
+      internalID: 678127627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_36
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5adc2cc260d04b90cddc34c15507e
+      internalID: 237650016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191efeffcf405748b6a3c74df76da05
+      internalID: -883007986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_38
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece3bd36bdcd384e98eeb8f6c0233d5
+      internalID: -1453253695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ac2a0f3195f745a1abdfcdca39d29
+      internalID: -1762362362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9717b7b75dc27bf46880476bfcf2fbc5
+      internalID: -443361423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c0e0004978ac8489325b3ae33026ec
+      internalID: 1466974783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aacd33a083ec3429bea6b9fad76f49
+      internalID: -63364391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7d50a70c018054280d89ca4faaf8f7
+      internalID: 507537201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af42680f64e84043a1414b0219c4e12
+      internalID: 1644101379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a2f856ecbe79941b288a96d41f69b1
+      internalID: -394740907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b3126cdee9dfe4a90f8283c31f63ea
+      internalID: -557253268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da5f48f8c71ad04ab3158e5fb5bad85
+      internalID: -424822959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee83c3d4c9d7f564a94eca11e985daec
+      internalID: -840128218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9447023df1ccbe4b83623d6df4a74ab
+      internalID: 657838115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_50
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6698d79ad1e34db35df848b0c9565
+      internalID: 1131838837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5ff07cd0c1794f9d8728086f762a4
+      internalID: -983931237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_52
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46954e4bf825d9640836fd3d21d4a61f
+      internalID: 1201738689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_53
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d12064899cd54d936d43f679f96b1
+      internalID: -518607902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71b750ba75dad488f756a7ba5d6073
+      internalID: 1828627614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80324107f7b00a24a8183ef9f05be38f
+      internalID: 36909090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316567d7e7a8c6e48b9acd673903381c
+      internalID: 1292816122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666a14fea8260a4ebf64a9b6d4895ba
+      internalID: 157636818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435743aca3b1c7d4083ca30815927347
+      internalID: -1454249313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef064c2223171a4eadac704c58ac7fd
+      internalID: -1813172468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_60
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac10ed07c5ba591459b89291316da975
+      internalID: -773292188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18aa0dc0fa0f5b46ac3d279228503f4
+      internalID: 2127564000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_62
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7c7ac0081960408ee65192b20d0f6
+      internalID: 1085029977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_63
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628116d0cb3e3c14194fbd6327cf1e58
+      internalID: -1358473843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_64
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe75eca70d78a7428b3c81ca06c6826
+      internalID: 803941772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_65
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67735bfa27e3f6428481ddaf016ad2f
+      internalID: -1146921560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_66
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4df2f85cc46bf4489824d5b43ba05a
+      internalID: 1811097858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_67
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b7a9b54dab194bbaa0d4afcef4636
+      internalID: 873782403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e2cf692a7bcc14ba53812f95b58aaf
+      internalID: -578591070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a807a0c8b13a64689bad8f15aeea1f
+      internalID: -1187432924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6212dba75a442d4c96977b5fd771eb2
+      internalID: -1185281854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c7b8f80ea02dd4f8118aa25327a7d3
+      internalID: -2114299250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675df3d7884e0444fbbcebaf7e4ed784
+      internalID: 1131578922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa994c46bb7944fa2c4b7755aecb07
+      internalID: 559479804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f252f0251eb930945bc3d9213b174c96
+      internalID: 1661533648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_75
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814aec15f2ec3b74b81e650a5268a365
+      internalID: 5108357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118014adae197314ab903e0e78acfb40
+      internalID: -18627398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_77
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4c623cf9e52ed4f9e4c740ed9d708f
+      internalID: -28308803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_78
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b6b29bf8e9894d8d06de443b174e5
+      internalID: -479677075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_79
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9a84a2cec68224f82f0efa8c2046b7
+      internalID: -1065629489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_80
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49d2055aa197e408e2ac1af9f7cf22
+      internalID: -1783503988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_trees_etc_81
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a112f9d4983d242961ceab7eee6c81
+      internalID: -1803467071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +1867,89 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      car_trees_etc_0: 549796379
+      car_trees_etc_1: 1569727058
+      car_trees_etc_10: 1314630885
+      car_trees_etc_11: -1687395120
+      car_trees_etc_12: -2142367168
+      car_trees_etc_13: -216409438
+      car_trees_etc_14: 1605909492
+      car_trees_etc_15: -1096973565
+      car_trees_etc_16: 766829570
+      car_trees_etc_17: -1134392817
+      car_trees_etc_18: 398105227
+      car_trees_etc_19: 368908031
+      car_trees_etc_2: 954478025
+      car_trees_etc_20: -1299279943
+      car_trees_etc_21: 1578322163
+      car_trees_etc_22: 907563359
+      car_trees_etc_23: 797781991
+      car_trees_etc_24: 33683448
+      car_trees_etc_25: 1560466690
+      car_trees_etc_26: 737125267
+      car_trees_etc_27: -1520120900
+      car_trees_etc_28: 1130230660
+      car_trees_etc_29: 239627298
+      car_trees_etc_3: -448762399
+      car_trees_etc_30: -553161821
+      car_trees_etc_31: -1976646802
+      car_trees_etc_32: 470992340
+      car_trees_etc_33: 1590929766
+      car_trees_etc_34: -1537381402
+      car_trees_etc_35: 678127627
+      car_trees_etc_36: 237650016
+      car_trees_etc_37: -883007986
+      car_trees_etc_38: -1453253695
+      car_trees_etc_39: -1762362362
+      car_trees_etc_4: -1965410179
+      car_trees_etc_40: -443361423
+      car_trees_etc_41: 1466974783
+      car_trees_etc_42: -63364391
+      car_trees_etc_43: 507537201
+      car_trees_etc_44: 1644101379
+      car_trees_etc_45: -394740907
+      car_trees_etc_46: -557253268
+      car_trees_etc_47: -424822959
+      car_trees_etc_48: -840128218
+      car_trees_etc_49: 657838115
+      car_trees_etc_5: 1658710782
+      car_trees_etc_50: 1131838837
+      car_trees_etc_51: -983931237
+      car_trees_etc_52: 1201738689
+      car_trees_etc_53: -518607902
+      car_trees_etc_54: 1828627614
+      car_trees_etc_55: 36909090
+      car_trees_etc_56: 1292816122
+      car_trees_etc_57: 157636818
+      car_trees_etc_58: -1454249313
+      car_trees_etc_59: -1813172468
+      car_trees_etc_6: -1243745230
+      car_trees_etc_60: -773292188
+      car_trees_etc_61: 2127564000
+      car_trees_etc_62: 1085029977
+      car_trees_etc_63: -1358473843
+      car_trees_etc_64: 803941772
+      car_trees_etc_65: -1146921560
+      car_trees_etc_66: 1811097858
+      car_trees_etc_67: 873782403
+      car_trees_etc_68: -578591070
+      car_trees_etc_69: -1187432924
+      car_trees_etc_7: -812475851
+      car_trees_etc_70: -1185281854
+      car_trees_etc_71: -2114299250
+      car_trees_etc_72: 1131578922
+      car_trees_etc_73: 559479804
+      car_trees_etc_74: 1661533648
+      car_trees_etc_75: 5108357
+      car_trees_etc_76: -18627398
+      car_trees_etc_77: -28308803
+      car_trees_etc_78: -479677075
+      car_trees_etc_79: -1065629489
+      car_trees_etc_8: 1552329276
+      car_trees_etc_80: -1783503988
+      car_trees_etc_81: -1803467071
+      car_trees_etc_9: 53944936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

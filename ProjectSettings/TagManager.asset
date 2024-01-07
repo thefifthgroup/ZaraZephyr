@@ -4,7 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Key
+  - KeyCollectible
+  - Trap
   layers:
   - Default
   - TransparentFX
@@ -47,6 +48,12 @@ TagManager:
     locked: 0
   - name: BackgroundDetail1
     uniqueID: 4106720107
+    locked: 0
+  - name: BackgroundDetail2
+    uniqueID: 1854861035
+    locked: 0
+  - name: BackgroundDetail3
+    uniqueID: 3453893787
     locked: 0
   - name: Default
     uniqueID: 0

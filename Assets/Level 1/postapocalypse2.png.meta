@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,7 +134,2527 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: postapocalypse2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa33ff41063914f8788fbfbe16ab48
+      internalID: -330165847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67af40f9c62ba94bb37935fc81107b6
+      internalID: 492916488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fd5c5f4ab5364c9978971f44c0227
+      internalID: -1458379399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ae1e014dab3b4bb332b455dcfc8fc
+      internalID: 39993580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b9efcf5567974cbdc667c71409ec8
+      internalID: -1806584165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f352ae48cda304d89b76dc96668a5f
+      internalID: 1677694911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b27bb270bfdb4d86a955826c2fa6e
+      internalID: 941751490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8e772095652b49ab337b5691677a2
+      internalID: 1554352478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4470d05397b4646b9a63d5c7954393
+      internalID: -1822540008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b68e298e5def240838a8d734f63ec3
+      internalID: -1445674949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215e3c5440368f84e99aeac1a22fc64c
+      internalID: -2013976126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fc7858cafb5f540835f00e4890d55a
+      internalID: 642623540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e704856bfd9e45bad521c7ab94d75
+      internalID: 1960939545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93821650acd754cba02e2a794a2c7b
+      internalID: 962747501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbeae1fe0c0b484aaea8bb062875224
+      internalID: 339362975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b37dd94a804a488feed2c3e65d8c0
+      internalID: 294950910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ddd01e0e6da37458ee0759065fb85b
+      internalID: -255986358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99da7c65b96db4941a14a667a219dbb8
+      internalID: 1539643921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e834833a16c0b4fb570be2d95aa360
+      internalID: 1481177398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ba47d0335f86469b06b099d06994c
+      internalID: -1602322053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa85ebb08ae8c49930160d0cd45165
+      internalID: -1791643956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44abc17c4f6bc4e8ab8b4efa906390
+      internalID: -814657728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0061d29d4e71489c22c6b8d5e17f0
+      internalID: -343850167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a66937d1e7314fa91a661086e02eb
+      internalID: 1833496621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cadb1677b24cb94381626605bcafaa4
+      internalID: 1229078918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a187c93f9cd69449210b283a652a5c
+      internalID: 1053209529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c815e4b4d2654dad74e6469814b0c
+      internalID: -947529021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631c313fc195e746b9126b94e4fc831
+      internalID: -1606599838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_28
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6c8c0a3391da45bf23cd00139f11c
+      internalID: 1579995432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a49b92ff64874496f3c622be4b8f3
+      internalID: 1334729012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0a355322200f4eb7c469f74119145
+      internalID: 2092199170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aee76fdd9715a4a9bc5d3c98233519
+      internalID: -528333154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402685b5f11050d43b8f149f2a288a56
+      internalID: -98241330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d4cdaf8484c494da338f868ed765cd
+      internalID: -292736229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f22b498a72224486ccbbe952e5220
+      internalID: -504193083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fcf7f7096b5dd4ba8d89b561b158f5
+      internalID: -1451166780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa7419213ef364286254ae5bf636b3
+      internalID: -1231951622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf41959fa007bd45867b92b1496613c
+      internalID: 1704682526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375dddc20dea8f489c8dae775b923a1
+      internalID: 501476181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f420662d6aa76b5478e0794423862b7e
+      internalID: 657938844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281750772233d54eb7b77da35ea0563
+      internalID: -639012829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2e81bbf1cfb549b142bce409a7ff4
+      internalID: -1586921720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af5b46b602c37479e6867c06a8d38c
+      internalID: -1022603442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_43
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2d77cff9a89f429eec1c47ae4f098
+      internalID: 161103292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ed652b9326b554e91506b1af71dcbb
+      internalID: 971989779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc20228a04a91c3499728b2d98398efb
+      internalID: -826660369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c405e0a8e4977bb4fae571d6944fbfe2
+      internalID: -457992760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eedb9f4ae9c942499b6d250f997351f
+      internalID: 1140065496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1126d0d3fe2d2c40840842aa1b3a0b7
+      internalID: 1689624726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da65978d91f12b428f869ecadd17086
+      internalID: -263496081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72480cd0301fad48aea1f8f5a9961fa
+      internalID: -808131365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8d21e17df091468034f179e7b5ebd
+      internalID: 475970858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4355d1eda3104f96f5a99340302d6
+      internalID: 1353673733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02377951c8704834bb5b0df7bb06d984
+      internalID: 28752864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5cccc4b1c54b4ba02a943af2e35d0
+      internalID: -1427317664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f47e72f549baf40a60a1a0973a8e0b
+      internalID: 1362963280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_56
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f5091cab0fa349bec653970754c45
+      internalID: 1112386044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b404b60139b50448b8461aefe14afe1
+      internalID: -628783049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_58
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e5accf58681641bcbeae904e736ee
+      internalID: 434934658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_59
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592545130cdc6544a9506042c6ec91d
+      internalID: 504968537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23cc281d7fb6d4cbb60d718dd32197
+      internalID: 621886586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820433d2a42d8d6439c168041784e550
+      internalID: -845802044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3105bbe06168a9146b668c128538ab49
+      internalID: 480156103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb75ea1d505e3c4f850a80d041f9489
+      internalID: 131887710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed19f6d05a2fff4ab9c283ad48862ee
+      internalID: 523414261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58b173c026e7f448fe7e65d9e03f97
+      internalID: 5049687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42278b487b7315f45ab62a2a806a1662
+      internalID: 1469245106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bae6fd779618c347be5805fdc71e283
+      internalID: -1978817274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a902f3adcabd064c8e518d2fda64624
+      internalID: -707928517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d527908e3c065f04d8a12d1d1ff8301f
+      internalID: 1366231874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6903fd03afba40876e56e0a3d29d1
+      internalID: 1165073952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec7d4facb867b4faa058fd51114d41
+      internalID: -79026001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52594762d1d3e3e4c9cd55c104203f04
+      internalID: -525504560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abaf08eb2cc85844962491fec7fb413
+      internalID: 714910097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d8fb1923235e43a9303b618ad61aa
+      internalID: -2133367597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912447d1149cf9844bb2692d437a6349
+      internalID: -47938252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6113e23719f451b4a961191198591d77
+      internalID: -290300788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c6d2142abb429499c935e1beb8216b
+      internalID: -600073007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85548cb4ee33f92479a7091c177f377f
+      internalID: -1618388348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5717a937845f1f848b906a6336982f31
+      internalID: -307838502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7574f2368fc06bd4b9fdd2d2bc0868f7
+      internalID: -251342281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27f891f38ceb5446ad4e9e8a8e3007a
+      internalID: 2056471640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e4ad76f5173e4a8dc7821d8952e7d
+      internalID: -52042139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a548338943d341a82e9cdaca32ec5
+      internalID: -512471208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_84
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9778afab6173943b46d95ef221446a
+      internalID: -772359008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba84ac86845af044c8f7ca02b91d2dc6
+      internalID: -670347056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_86
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b143920a270043890a98790dd775b
+      internalID: 337916002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_87
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59783b154402ad14689b312ee8448fed
+      internalID: 650395237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_88
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6498e1dd49755fd449d033972fd53da6
+      internalID: 189693948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_89
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c23a6b91c678c45a527116fea2bcb9
+      internalID: 499283421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7fe4c09cadaa4ab8605b849f1352e
+      internalID: -135351997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f956b28677cc15e42bcc8e3814139dff
+      internalID: -1975507025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0677ff22b863f46b0156d5b33f01f2
+      internalID: 1312458601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67004c119f4e96a4a9cfd37fc66856a3
+      internalID: -1965946207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00339ec2aa212cb47bd9839dbd9a46e4
+      internalID: 1365071946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9981926304674f746a2a64305453464c
+      internalID: 1162428158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffb4bacc89bb0742a58a3db95140170
+      internalID: -158266812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4362791fe665e743b2c407270f54c94
+      internalID: 1087741406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8bd4aa4e3fbae49ae2075298e63118
+      internalID: -1213732193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6706b681b97b42933313bf8fcae8a
+      internalID: 725620560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d07543edb92c1419917b2aa21babd0
+      internalID: 1275978744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7883871f342e04a8eae3f89aea8730
+      internalID: 369127727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892802930f265d345be8667772feebba
+      internalID: -166334498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e9cbe9e6bb464aa96c65a8404456d
+      internalID: -267369418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_104
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6d6096209d7494ba41e915a796c30b
+      internalID: -1681343889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b484efc4c7bf79e489c0cac4b52fbe85
+      internalID: 268982680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09239b34b9af59478d3a01752b7bcc1
+      internalID: 290712038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1671bffffb555a14197b9da469cf5278
+      internalID: 766557673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b01273870d1343bc8449fbaaec3aa
+      internalID: -1837971294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebaefe893e46aa488afdc0c1d0bdf8d
+      internalID: -1870864971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4716db8a1e81e489c1e448ede108ff
+      internalID: -100362198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec734ef7c4555934eac75c8ed4e2f358
+      internalID: -1654935327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfe456c99f5a1f4baddd11c5ab7aeee
+      internalID: 1318600350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_113
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1375878f4b7f6a46b16c8837a8e2c83
+      internalID: -2131238577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546c945b19ff27949b104792fe048a74
+      internalID: -2017303110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e0e9898fb78f49ac510dce5f321d5
+      internalID: 433779166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_116
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d189d30b83fa5db48944b50a72dd0364
+      internalID: 497462646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_117
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31677f9eb012f3241a25847d585008d3
+      internalID: 2115750412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_118
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7572b7fa836041a1e43449eda1d4a
+      internalID: -1241052345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postapocalypse2_119
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f1e0e3b63dc344d8477abaf044898b
+      internalID: 591661694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +2665,127 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      postapocalypse2_0: -330165847
+      postapocalypse2_1: 492916488
+      postapocalypse2_10: -2013976126
+      postapocalypse2_100: 1275978744
+      postapocalypse2_101: 369127727
+      postapocalypse2_102: -166334498
+      postapocalypse2_103: -267369418
+      postapocalypse2_104: -1681343889
+      postapocalypse2_105: 268982680
+      postapocalypse2_106: 290712038
+      postapocalypse2_107: 766557673
+      postapocalypse2_108: -1837971294
+      postapocalypse2_109: -1870864971
+      postapocalypse2_11: 642623540
+      postapocalypse2_110: -100362198
+      postapocalypse2_111: -1654935327
+      postapocalypse2_112: 1318600350
+      postapocalypse2_113: -2131238577
+      postapocalypse2_114: -2017303110
+      postapocalypse2_115: 433779166
+      postapocalypse2_116: 497462646
+      postapocalypse2_117: 2115750412
+      postapocalypse2_118: -1241052345
+      postapocalypse2_119: 591661694
+      postapocalypse2_12: 1960939545
+      postapocalypse2_13: 962747501
+      postapocalypse2_14: 339362975
+      postapocalypse2_15: 294950910
+      postapocalypse2_16: -255986358
+      postapocalypse2_17: 1539643921
+      postapocalypse2_18: 1481177398
+      postapocalypse2_19: -1602322053
+      postapocalypse2_2: -1458379399
+      postapocalypse2_20: -1791643956
+      postapocalypse2_21: -814657728
+      postapocalypse2_22: -343850167
+      postapocalypse2_23: 1833496621
+      postapocalypse2_24: 1229078918
+      postapocalypse2_25: 1053209529
+      postapocalypse2_26: -947529021
+      postapocalypse2_27: -1606599838
+      postapocalypse2_28: 1579995432
+      postapocalypse2_29: 1334729012
+      postapocalypse2_3: 39993580
+      postapocalypse2_30: 2092199170
+      postapocalypse2_31: -528333154
+      postapocalypse2_32: -98241330
+      postapocalypse2_33: -292736229
+      postapocalypse2_34: -504193083
+      postapocalypse2_35: -1451166780
+      postapocalypse2_36: -1231951622
+      postapocalypse2_37: 1704682526
+      postapocalypse2_38: 501476181
+      postapocalypse2_39: 657938844
+      postapocalypse2_4: -1806584165
+      postapocalypse2_40: -639012829
+      postapocalypse2_41: -1586921720
+      postapocalypse2_42: -1022603442
+      postapocalypse2_43: 161103292
+      postapocalypse2_44: 971989779
+      postapocalypse2_45: -826660369
+      postapocalypse2_46: -457992760
+      postapocalypse2_47: 1140065496
+      postapocalypse2_48: 1689624726
+      postapocalypse2_49: -263496081
+      postapocalypse2_5: 1677694911
+      postapocalypse2_50: -808131365
+      postapocalypse2_51: 475970858
+      postapocalypse2_52: 1353673733
+      postapocalypse2_53: 28752864
+      postapocalypse2_54: -1427317664
+      postapocalypse2_55: 1362963280
+      postapocalypse2_56: 1112386044
+      postapocalypse2_57: -628783049
+      postapocalypse2_58: 434934658
+      postapocalypse2_59: 504968537
+      postapocalypse2_6: 941751490
+      postapocalypse2_60: 621886586
+      postapocalypse2_61: -845802044
+      postapocalypse2_62: 480156103
+      postapocalypse2_63: 131887710
+      postapocalypse2_64: 523414261
+      postapocalypse2_65: 5049687
+      postapocalypse2_66: 1469245106
+      postapocalypse2_67: -1978817274
+      postapocalypse2_68: -707928517
+      postapocalypse2_69: 1366231874
+      postapocalypse2_7: 1554352478
+      postapocalypse2_70: 1165073952
+      postapocalypse2_71: -79026001
+      postapocalypse2_72: -525504560
+      postapocalypse2_73: 714910097
+      postapocalypse2_74: -2133367597
+      postapocalypse2_75: -47938252
+      postapocalypse2_76: -290300788
+      postapocalypse2_77: -600073007
+      postapocalypse2_78: -1618388348
+      postapocalypse2_79: -307838502
+      postapocalypse2_8: -1822540008
+      postapocalypse2_80: -251342281
+      postapocalypse2_81: 2056471640
+      postapocalypse2_82: -52042139
+      postapocalypse2_83: -512471208
+      postapocalypse2_84: -772359008
+      postapocalypse2_85: -670347056
+      postapocalypse2_86: 337916002
+      postapocalypse2_87: 650395237
+      postapocalypse2_88: 189693948
+      postapocalypse2_89: 499283421
+      postapocalypse2_9: -1445674949
+      postapocalypse2_90: -135351997
+      postapocalypse2_91: -1975507025
+      postapocalypse2_92: 1312458601
+      postapocalypse2_93: -1965946207
+      postapocalypse2_94: 1365071946
+      postapocalypse2_95: 1162428158
+      postapocalypse2_96: -158266812
+      postapocalypse2_97: 1087741406
+      postapocalypse2_98: -1213732193
+      postapocalypse2_99: 725620560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
