@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class StickyPlatform : Monobehaviour
+public class StickyPlatform : MonoBehaviour 
 {
   private void OnTriggerEnter2D(Collider2D collision)
   {
@@ -12,7 +12,7 @@ public class StickyPlatform : Monobehaviour
       }
   }
 
-  private void OnTriggerExit2d(Collider2D collision)
+  private void OnTriggerExit2D(Collider2D collision)
   {
       if (collision.gameObject.name == "Player")
     {

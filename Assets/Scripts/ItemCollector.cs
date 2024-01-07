@@ -5,17 +5,18 @@ using UnityEngine.UI;
 
 public class ItemCollector : MonoBehaviour
 {
-    private int cherries = 0;
+    [SerializeField] private Text keysText;
+    private int keys = 3;
 
-    [SerializeField] private Text cherriesText;
-    
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Key"))
+        // If player collides with a collectible key, destroy it and 1 add to counter
+        if (collision.gameObject.CompareTag("KeyCollectible"))
         {
             Destroy(collision.gameObject);
-            cherries++;
-            cherriesText.text = "Cherries: " + cherries;
+            keys--;
+            // Display counter in the GUI
+            keysText.text = "Keys: " + keys;
         }
     }
 }
