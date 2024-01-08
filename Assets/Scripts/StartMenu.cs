@@ -7,6 +7,6 @@ public class StartMenu : MonoBehaviour
 {
   public void StarGame()
   {
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildingIndex + 1);
+    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
   }
 }

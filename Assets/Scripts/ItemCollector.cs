@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class ItemCollector : MonoBehaviour
 {
     [SerializeField] private Text keysText;
-    [SerializeField] private Audiosource collectionSoundEffect;
+    [SerializeField] private AudioSource collectionSoundEffect;
     private int keys = 0;
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
     // setting a variable that contains only the four player animation/movement states
     private enum AnimationState { idle, run, jump, fall }
         
-    [SerializeField] private Audiosource jumpSoundEffect;
+    [SerializeField] private AudioSource jumpSoundEffect;
 
     private void Start()
     {
