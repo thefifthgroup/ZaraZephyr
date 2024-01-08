@@ -623,7 +623,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 4.36
-  m_Text: 'Keys: 0/3'
+  m_Text: 'Keys: 0/5'
 --- !u!222 &247231324
 CanvasRenderer:
   m_ObjectHideFlags: 0

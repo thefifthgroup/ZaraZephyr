@@ -16,7 +16,7 @@ public class ItemCollector : MonoBehaviour
             Destroy(collision.gameObject);
             keys++;
             // Display counter in the GUI
-            keysText.text = "Keys: " + keys + "/3";
+            keysText.text = "Keys: " + keys + "/5";
         }
     }
 }
