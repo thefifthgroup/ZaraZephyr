@@ -42,8 +42,8 @@ public class PlayerMovement : MonoBehaviour
         }
 
         UpdateAnimationState();
-
     }
+
     private void UpdateAnimationState()
     {
         AnimationState state;
@@ -79,7 +79,7 @@ public class PlayerMovement : MonoBehaviour
         }
         anim.SetInteger("animState", (int)state);
     }
-    
+
     private bool IsGrounded()
     {
         // checks if the player is overlapping the terrain/ground
