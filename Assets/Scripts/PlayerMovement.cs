@@ -18,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
 
     // setting a variable that contains only the four player animation/movement states
     private enum AnimationState { idle, run, jump, fall }
+        
+    [SerializeField] private Audiosource jumpSoundEffect;
 
     private void Start()
     {
@@ -38,6 +40,7 @@ public class PlayerMovement : MonoBehaviour
         // Player jump
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
+            jumpSoundEffect.Play();
             rb.velocity = new Vector2 (rb.velocity.x, jumpStrength);
         }
 
