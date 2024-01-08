@@ -12,10 +12,10 @@ In the apocalyptic world of Tuphoria, where remnants of civilization struggled t
 
 ## BSIT-NS-3B Group 5
 
-Garcia, Boris
-Gomez, Mc Kennedy (devken0)
-Nonong, Tricxy
-Panaligan, Chastina
-Santos, Steven
-Valdez, Michael Ian (iyeyn)
+Garcia, Boris <br>
+Gomez, Mc Kennedy (devken0) <br>
+Nonong, Tricxy <br>
+Panaligan, Chastina <br>
+Santos, Steven <br>
+Valdez, Michael Ian (iyeyn) <br>
 
