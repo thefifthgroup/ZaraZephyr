@@ -8,6 +8,8 @@ public class PlayerLife: MonoBehaviour
     // References, initializiations, declarations
     private Rigidbody2D rb;
     private Animator anim;
+
+    [SerializeField] private AudioSource deathSoundEffect;
     
     private void Start()
     {
@@ -26,6 +28,7 @@ public class PlayerLife: MonoBehaviour
     private void Die()
     {
         // Set rigidbody type from dynamic to static when player dies, therefore stopping player movement or player input 
+        deathSoundEffect.Play();
         rb.bodyType = RigidbodyType2D.Static;
         // set paramater to true
         anim.SetTrigger("death");
