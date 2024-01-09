@@ -1,4 +1,4 @@
-# ZaraZephyr
+# Zara Zephyr
 
 ## Overview
 
@@ -12,10 +12,16 @@ In the apocalyptic world of Tuphoria, where remnants of civilization struggled t
 
 ## BSIT-NS-3B Group 5
 
+Programmers <br><br>
+
 Garcia, Boris <br>
-Gomez, Mc Kennedy (devken0) <br>
+Gomez, Mc Kennedy @devken0 <br>
+Valdez, Michael Ian @iyeyn <br><br>
+
+Designers <br><br>
+
 Nonong, Tricxy <br>
 Panaligan, Chastina <br>
 Santos, Steven <br>
-Valdez, Michael Ian (iyeyn) <br>
+
 
