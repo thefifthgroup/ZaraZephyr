@@ -20,6 +20,7 @@ public class PlayerMovement : MonoBehaviour
     private enum AnimationState { idle, run, jump, fall }
         
     [SerializeField] private AudioSource jumpSoundEffect;
+    [SerializeField] private AudioSource runSoundEffect;
 
     private void Start()
     {
@@ -42,6 +43,18 @@ public class PlayerMovement : MonoBehaviour
         {
             jumpSoundEffect.Play();
             rb.velocity = new Vector2 (rb.velocity.x, jumpStrength);
+        }
+
+        if (rb.velocity.x != 0)
+        {
+            if (!runSoundEffect.isPlaying) 
+            {
+                runSoundEffect.Play();  
+            }
+        }
+        else
+        {
+            runSoundEffect.Stop();
         }
 
         UpdateAnimationState();
