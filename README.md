@@ -15,8 +15,8 @@ In the apocalyptic world of Tuphoria, where remnants of civilization struggled t
 Programmers <br><br>
 
 Garcia, Boris <br>
-Gomez, Mc Kennedy @devken0 <br>
-Valdez, Michael Ian @iyeyn <br><br>
+Gomez, Mc Kennedy [@devken0](https://github.com/devken0)<br>
+Valdez, Michael Ian [@iyeyn](https://github.com/iyeyn)<br><br>
 
 Designers <br><br>
 
