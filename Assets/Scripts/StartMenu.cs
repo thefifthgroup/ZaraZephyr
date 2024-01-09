@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class StartMenu : MonoBehaviour
 {
-  public void StarGame()
+  public void StartGame()
   {
     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
   }

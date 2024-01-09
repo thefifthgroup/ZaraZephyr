@@ -10,17 +10,22 @@ public class PlayerLife: MonoBehaviour
     private Animator anim;
 
     [SerializeField] private AudioSource deathSoundEffect;
+    [SerializeField] private AudioSource lifeSoundEffect;
+    //[SerializeField] private AudioSource backgroundMusic;
+    private BGMController bgm;
     
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        bgm = FindObjectOfType<BGMController>();
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         // Player death condition 
         if (collision.gameObject.CompareTag("Trap"))
         {
+            bgm.backgroundMusic.Stop();
             Die();
         }
     }
@@ -37,6 +42,7 @@ public class PlayerLife: MonoBehaviour
     private void RestartLevel()
     {
         // Restore scene/level
+        lifeSoundEffect.Play();
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

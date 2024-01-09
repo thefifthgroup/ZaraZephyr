@@ -7,6 +7,7 @@ public class ItemCollector : MonoBehaviour
 {
     [SerializeField] private Text keysText;
     [SerializeField] private AudioSource collectionSoundEffect;
+    [SerializeField] private AudioSource keysSoundEffect;
     private int keys = 0;
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -19,6 +20,17 @@ public class ItemCollector : MonoBehaviour
             keys++;
             // Display counter in the GUI
             keysText.text = "Keys: " + keys + "/5";
+            if (keys == 5)
+            {
+                keysSoundEffect.Play(); 
+                keysText.fontStyle = FontStyle.Bold;
+                keysText.color = Color.red;
+                LevelComplete();
+            }
         }
+    }
+    public bool LevelComplete()
+    {
+        return true;
     }
 }
