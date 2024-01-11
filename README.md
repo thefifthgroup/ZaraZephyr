@@ -2,7 +2,7 @@
 
 ## Overview
 
-"Zara Zephyr: Obstacle Odyssey" is an obstacle-centric adventure game that has elements of platforming. The target audience includes gamers who enjoy fast-paced action, precision platforming. The game is suitable for players of all ages, from kids, young adults to grown-ups.
+"Zara Zephyr: Obstacle Odyssey" is an obstacle-centric adventure game that has elements of platforming. The target audience includes gamers who enjoy action-adventure and platforming. The game is suitable for players of all ages, from kids, young adults to grown-ups.
 
 ## Story
 
