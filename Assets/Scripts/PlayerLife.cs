@@ -20,7 +20,7 @@ public class PlayerLife: MonoBehaviour
         anim = GetComponent<Animator>();
         bgm = FindObjectOfType<BGMController>();
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         // Player death condition 
         if (collision.gameObject.CompareTag("Trap"))
@@ -39,6 +39,7 @@ public class PlayerLife: MonoBehaviour
         anim.SetTrigger("death");
     }
 
+    // Used as an animation event
     private void RestartLevel()
     {
         // Restore scene/level

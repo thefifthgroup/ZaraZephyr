@@ -31,7 +31,7 @@ public class LevelChanger : MonoBehaviour
         playSound.Play();
         levelToLoad = levelIndex;
         fadeOut.SetTrigger("FadeOut");
-        startButton.SetTrigger("Selected");
+        startButton.SetTrigger("Pressed");
     } 
     public void FadeToLevel (int levelIndex)
     {

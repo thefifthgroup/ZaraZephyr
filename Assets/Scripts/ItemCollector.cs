@@ -8,7 +8,15 @@ public class ItemCollector : MonoBehaviour
     [SerializeField] private Text keysText;
     [SerializeField] private AudioSource collectionSoundEffect;
     [SerializeField] private AudioSource keysSoundEffect;
+    private Finish finish;
+    private PlatformActivator platformActivator;
     private int keys = 0;
+
+    private void Start()
+    {
+        finish = FindObjectOfType<Finish>();
+        platformActivator = FindObjectOfType<PlatformActivator>();
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -25,12 +33,9 @@ public class ItemCollector : MonoBehaviour
                 keysSoundEffect.Play(); 
                 keysText.fontStyle = FontStyle.Bold;
                 keysText.color = Color.red;
-                LevelComplete();
+                finish.AllKeysCollected();
+                platformActivator.AllKeysCollected();
             }
         }
-    }
-    public bool LevelComplete()
-    {
-        return true;
     }
 }
