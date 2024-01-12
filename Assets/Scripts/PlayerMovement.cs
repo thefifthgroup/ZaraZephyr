@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
@@ -9,6 +10,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float movementSpeed;
     [SerializeField] private float jumpStrength;
     [SerializeField] private LayerMask jumpFloor;
+    [SerializeField] private AudioSource jumpSoundEffect;
+    [SerializeField] private AudioSource runSoundEffect;
+    [SerializeField] private AudioSource fallSoundEffect;
 
     private Rigidbody2D rb;
     private BoxCollider2D boxc;
@@ -18,9 +22,6 @@ public class PlayerMovement : MonoBehaviour
 
     // setting a variable that contains only the four player animation/movement states
     private enum AnimationState { idle, run, jump, fall }
-        
-    [SerializeField] private AudioSource jumpSoundEffect;
-    [SerializeField] private AudioSource runSoundEffect;
 
     private void Start()
     {
@@ -43,9 +44,13 @@ public class PlayerMovement : MonoBehaviour
         {
             jumpSoundEffect.Play();
             rb.velocity = new Vector2 (rb.velocity.x, jumpStrength);
+            if (anim.GetInteger("animState") == 3)
+            {
+                isFalling();
+            }
         }
 
-        if (rb.velocity.x != 0)
+        if (anim.GetInteger("animState") == 1)
         {
             if (!runSoundEffect.isPlaying) 
             {
@@ -58,6 +63,21 @@ public class PlayerMovement : MonoBehaviour
         }
 
         UpdateAnimationState();
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.layer == 6 && isFalling())
+        {
+            if (!fallSoundEffect.isPlaying)
+            {
+                fallSoundEffect.Play();
+            }
+        }
+        else
+        {
+            fallSoundEffect.Stop();
+        }
     }
 
     private void UpdateAnimationState()
@@ -94,6 +114,11 @@ public class PlayerMovement : MonoBehaviour
             state = AnimationState.fall;
         }
         anim.SetInteger("animState", (int)state);
+    }
+
+    private bool isFalling()
+    {
+        return true;
     }
 
     private bool IsGrounded()
