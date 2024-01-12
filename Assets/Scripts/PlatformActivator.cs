@@ -28,7 +28,7 @@ public class PlatformActivator : MonoBehaviour
                 invisiblePlatform.SetActive(true);
                 platform.sfxPlatform.Play();
                 platform.platformAppear.SetTrigger("appear");
-                Debug.Log("Platform activated ");
+                Debug.Log("Platform activated");
                 isDone = true;  
             }
         }
