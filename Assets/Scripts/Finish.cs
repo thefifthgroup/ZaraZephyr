@@ -27,7 +27,7 @@ public class Finish : MonoBehaviour
             if (keys == 5)
             {
                 levelFinished = true;
-                //bgm.backgroundMusic.Stop();
+                bgm.backgroundMusic.Stop();
                 anim.SetTrigger("checkpointOn");
                 IsComplete();
             }
