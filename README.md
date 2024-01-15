@@ -1,8 +1,10 @@
-# Zara Zephyr Obstacle Odyssey
+## About this repository
+
+This repository is used for hosting the source code of our game that is an academic requirement of our course, [Introduction to Game Development](https://github.com/topics/introduction-to-game-development).  
 
 ## Overview
 
-"Zara Zephyr: Obstacle Odyssey" is an obstacle-centric adventure game that has elements of platforming. The target audience includes gamers who enjoy action-adventure and platforming. The game is suitable for players of all ages, from kids, young adults to grown-ups.
+*Zara Zephyr: Obstacle Odyssey* is an obstacle-centric adventure game that has elements of platforming. The target audience includes gamers who enjoy action-adventure and platforming. The game is suitable for players of all ages, from kids, young adults to grown-ups.
 
 ## Story
 
@@ -10,18 +12,19 @@ In the apocalyptic world of Tuphoria, where remnants of civilization struggled t
 
 --- 
 
-## BSIT-NS-3B Group 5
+## About us 
 
-Programmers <br><br>
+We are the **Group 5** of BSIT-NS-3B in our course Introduction to Game Development from TUP Manila.
+
+### Programmers
 
 Garcia, Boris [@yubanji](https://github.com/yubanji)<br>
 Gomez, Mc Kennedy [@devken0](https://github.com/devken0)<br>
 Valdez, Michael Ian [@iyeyn](https://github.com/iyeyn)<br><br>
 
-Designers <br><br>
+### Designers
 
 Nonong, Tricxy <br>
 Panaligan, Chastina <br>
 Santos, Steven <br>
-
 
