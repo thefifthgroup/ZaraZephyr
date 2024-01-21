@@ -47,7 +47,7 @@ public class Finish : MonoBehaviour
 
     private void CompleteLevel()
     {
-        levelChanger.FadeToLevel(0);
+        levelChanger.FadeToLevel(2);
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
