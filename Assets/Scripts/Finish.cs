@@ -42,12 +42,12 @@ public class Finish : MonoBehaviour
     private void IsComplete()
     {
         finishSound.Play();
-        Invoke("CompleteLevel", 1f);
+        Invoke("CompleteLevel", .5f);
     }
 
     private void CompleteLevel()
     {
-        levelChanger.FadeToLevel(0);
+        levelChanger.FadeToLevel(2);
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
